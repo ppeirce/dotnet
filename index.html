@@ -48,7 +48,7 @@
     /* Hero section */
     .hero {
       width: 100%;
-      height: 50vh;
+      height: 35vh;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -166,6 +166,20 @@
     .contact a:hover {
       color: #a8a29e;
     }
+
+    .eyes {
+      width: 100%;
+      display: block;
+      z-index: 3;
+      position: relative;
+    }
+
+    .eyes img {
+      width: 100%;
+      display: block;
+      mask-image: linear-gradient(to bottom, transparent 0%, black 100%);
+      -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 100%);
+    }
   </style>
 </head>
 <body>
@@ -208,5 +222,9 @@
       <a href="https://github.com/ppeirce">github</a>
     </div>
   </section>
+
+  <div class="eyes">
+    <img src="eyes.jpeg" alt="">
+  </div>
 </body>
 </html>
