@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Judge Not</title>
+  <title>Peter Peirce</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
 
@@ -15,15 +15,12 @@
 
     html, body {
       width: 100%;
-      height: 100%;
-      overflow: hidden;
+      min-height: 100%;
+      overflow-x: hidden;
     }
 
     body {
       background-color: #3d3530;
-      display: flex;
-      align-items: center;
-      justify-content: center;
       position: relative;
     }
 
@@ -48,8 +45,17 @@
     #  z-index: 2;
     #}
 
+    /* Hero section */
+    .hero {
+      width: 100%;
+      height: 50vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+    }
+
     .text {
-      #transform: rotate(-6deg);
       text-align: center;
       z-index: 3;
       position: relative;
@@ -65,11 +71,142 @@
       text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.3);
       letter-spacing: 0.01em;
     }
+
+    /* Projects section */
+    .projects {
+      max-width: 640px;
+      margin: 0 auto;
+      padding: 2rem 2rem 6rem;
+      z-index: 3;
+      position: relative;
+    }
+
+    .projects-intro {
+      font-family: 'Georgia', 'Times New Roman', serif;
+      color: #a8a29e;
+      font-size: clamp(0.95rem, 1.8vw, 1.1rem);
+      line-height: 1.7;
+      margin-bottom: 3rem;
+    }
+
+    .project {
+      border-top: 1px solid rgba(232, 228, 223, 0.1);
+      padding: 1.5rem 0;
+    }
+
+    .project:last-child {
+      border-bottom: 1px solid rgba(232, 228, 223, 0.1);
+    }
+
+    .project a {
+      font-family: 'Playfair Display', 'Georgia', 'Times New Roman', serif;
+      font-weight: 700;
+      color: #e8e4df;
+      text-decoration: none;
+      font-size: clamp(1.1rem, 2vw, 1.35rem);
+      transition: color 0.2s;
+    }
+
+    .project a:hover {
+      color: #c4b5a4;
+    }
+
+    .project a span {
+      font-family: 'Georgia', 'Times New Roman', serif;
+      font-weight: 400;
+      font-size: 0.85em;
+      color: #a8a29e;
+      margin-left: 0.4em;
+    }
+
+    .project .desc a.source-link {
+      font-family: 'Georgia', 'Times New Roman', serif;
+      font-weight: 400;
+      color: #78716c;
+      font-size: 0.85em;
+      text-decoration: none;
+      margin-left: 0.5em;
+    }
+
+    .project .desc a.source-link:hover {
+      color: #a8a29e;
+    }
+
+    .project .desc {
+      font-family: 'Georgia', 'Times New Roman', serif;
+      color: #78716c;
+      font-size: clamp(0.85rem, 1.5vw, 0.95rem);
+      line-height: 1.6;
+      margin-top: 0.4rem;
+    }
+
+    /* Contact section */
+    .contact {
+      max-width: 640px;
+      margin: 0 auto;
+      padding: 3rem 2rem 6rem;
+      z-index: 3;
+      position: relative;
+    }
+
+    .contact .links {
+      display: flex;
+      gap: 2rem;
+      flex-wrap: wrap;
+    }
+
+    .contact a {
+      font-family: 'Georgia', 'Times New Roman', serif;
+      color: #78716c;
+      font-size: clamp(0.85rem, 1.5vw, 0.95rem);
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+
+    .contact a:hover {
+      color: #a8a29e;
+    }
   </style>
 </head>
 <body>
-  <div class="text">
-    <p>Judge not,<br>lest ye be judged.</p>
-  </div>
+  <section class="hero">
+    <div class="text">
+      <p>Judge not,<br>lest ye be judged.</p>
+    </div>
+  </section>
+
+  <section class="projects" id="projects">
+    <p class="projects-intro">
+      I've been vibe coding apps. I've never done front end work before in my life, so these have mostly been an exercise in developing completely blind.
+    </p>
+
+    <div class="project">
+      <a href="https://peirce.net/reddit">reddit2markdown <span>&rarr;</span></a>
+      <p class="desc">Convert Reddit threads to clean Markdown. <a href="https://github.com/ppeirce/reddit2markdown" class="source-link">[github]</a></p>
+    </div>
+
+    <div class="project">
+      <a href="https://github.com/ppeirce/ios-poi-log">ios-poi-log <span>&rarr;</span></a>
+      <p class="desc">An iOS app for logging points of interest.</p>
+    </div>
+
+    <div class="project">
+      <a href="https://github.com/ppeirce/clipper">clipper <span>&rarr;</span></a>
+      <p class="desc">Extract multiple clips from a video at once.</p>
+    </div>
+
+    <div class="project">
+      <a href="https://github.com/ppeirce/obsidian-heatmap-bases-view">obsidian-heatmap-bases-view <span>&rarr;</span></a>
+      <p class="desc">A heatmap visualization plugin for Obsidian.</p>
+    </div>
+  </section>
+
+  <section class="contact">
+    <div class="links">
+      <a href="mailto:mail@peirce.net">mail@peirce.net</a>
+      <a href="https://linkedin.com/in/ppeirce">linkedin</a>
+      <a href="https://github.com/ppeirce">github</a>
+    </div>
+  </section>
 </body>
 </html>
