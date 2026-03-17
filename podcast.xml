@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Borderline Podcast</title>
+    <link>https://peirce.net</link>
+    <language>en-us</language>
+    <description>The Borderline Podcast archive.</description>
+    <itunes:author>The Borderline Podcast</itunes:author>
+    <itunes:explicit>true</itunes:explicit>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:category text="Comedy"/>
+
+    <item>
+      <title>Episode 69: Worse Than The Flu</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/69.Worse.Than.The.Flu.mp3" length="22369951" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/69.Worse.Than.The.Flu.mp3</guid>
+      <pubDate>Sun, 01 Mar 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>46:36</itunes:duration>
+      <itunes:episode>69</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 68: Yoko Uno</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/68.Yoko.Uno.mp3" length="24736019" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/68.Yoko.Uno.mp3</guid>
+      <pubDate>Sun, 12 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>51:31</itunes:duration>
+      <itunes:episode>68</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 67: First Blood Fourth Beer</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/67.First.Blood.Fourth.Beer.mp3" length="30875627" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/67.First.Blood.Fourth.Beer.mp3</guid>
+      <pubDate>Sun, 24 Nov 2019 12:00:00 +0000</pubDate>
+      <itunes:duration>01:04:19</itunes:duration>
+      <itunes:episode>67</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 66: Spiral Balls And Also Shovel Passes</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/66.Spiral.Balls.And.Also.Shovel.Passes.mp3" length="24049727" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/66.Spiral.Balls.And.Also.Shovel.Passes.mp3</guid>
+      <pubDate>Mon, 07 Oct 2019 12:00:00 +0000</pubDate>
+      <itunes:duration>50:06</itunes:duration>
+      <itunes:episode>66</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 65: Cleat Technology</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/65.Cleat.Technology.mp3" length="35349470" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/65.Cleat.Technology.mp3</guid>
+      <pubDate>Mon, 19 Aug 2019 12:00:00 +0000</pubDate>
+      <itunes:duration>01:13:38</itunes:duration>
+      <itunes:episode>65</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 64: The Creep Bag</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/64.The.Creep.Bag.mp3" length="31007919" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/64.The.Creep.Bag.mp3</guid>
+      <pubDate>Mon, 01 Jul 2019 12:00:00 +0000</pubDate>
+      <itunes:duration>01:04:35</itunes:duration>
+      <itunes:episode>64</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 62: Jughead Slang</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/62.Jughead.Slang.mp3" length="27596328" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/62.Jughead.Slang.mp3</guid>
+      <pubDate>Tue, 14 May 2019 12:00:00 +0000</pubDate>
+      <itunes:duration>57:29</itunes:duration>
+      <itunes:episode>62</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 61: Mother's Day Special</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/61.Mother.s.Day.Special.mp3" length="21579606" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/61.Mother.s.Day.Special.mp3</guid>
+      <pubDate>Tue, 26 Mar 2019 12:00:00 +0000</pubDate>
+      <itunes:duration>44:57</itunes:duration>
+      <itunes:episode>61</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 60: Kalahari</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/60.Kalahari.mp3" length="33484746" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/60.Kalahari.mp3</guid>
+      <pubDate>Tue, 05 Feb 2019 12:00:00 +0000</pubDate>
+      <itunes:duration>01:09:45</itunes:duration>
+      <itunes:episode>60</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 59: Lord Fork</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/59.Lord.Fork.mp3" length="29797928" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/59.Lord.Fork.mp3</guid>
+      <pubDate>Wed, 19 Dec 2018 12:00:00 +0000</pubDate>
+      <itunes:duration>01:02:04</itunes:duration>
+      <itunes:episode>59</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 58: Podcast Math</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/58.Podcast.Math.mp3" length="34930884" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/58.Podcast.Math.mp3</guid>
+      <pubDate>Wed, 31 Oct 2018 12:00:00 +0000</pubDate>
+      <itunes:duration>01:12:46</itunes:duration>
+      <itunes:episode>58</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Year In Review</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/SP.YEAR.IN.REVIEW.mp3" length="18243665" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/SP.YEAR.IN.REVIEW.mp3</guid>
+      <pubDate>Thu, 13 Sep 2018 12:00:00 +0000</pubDate>
+      <itunes:duration>38:00</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Halloween Spooktacular 2017</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/SP.Halloween.Spooktacular.2017.mp3" length="29467535" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/SP.Halloween.Spooktacular.2017.mp3</guid>
+      <pubDate>Thu, 26 Jul 2018 12:00:00 +0000</pubDate>
+      <itunes:duration>01:01:23</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 57: The Sticky Sweetness</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/57.The.Sticky.Sweetness.mp3" length="25551044" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/57.The.Sticky.Sweetness.mp3</guid>
+      <pubDate>Thu, 07 Jun 2018 12:00:00 +0000</pubDate>
+      <itunes:duration>53:13</itunes:duration>
+      <itunes:episode>57</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 56: You think I like being a monster</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/56.You.think.I.like.being.a.monster.mp3" length="24530388" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/56.You.think.I.like.being.a.monster.mp3</guid>
+      <pubDate>Fri, 20 Apr 2018 12:00:00 +0000</pubDate>
+      <itunes:duration>51:06</itunes:duration>
+      <itunes:episode>56</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 55: A Game of Missouri Chess</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/55.A.Game.of.Missouri.Chess.mp3" length="24897965" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/55.A.Game.of.Missouri.Chess.mp3</guid>
+      <pubDate>Fri, 02 Mar 2018 12:00:00 +0000</pubDate>
+      <itunes:duration>51:52</itunes:duration>
+      <itunes:episode>55</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 54: Oahu Coconut Sunset</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/54.Oahu.Coconut.Sunset.mp3" length="25186375" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/54.Oahu.Coconut.Sunset.mp3</guid>
+      <pubDate>Fri, 12 Jan 2018 12:00:00 +0000</pubDate>
+      <itunes:duration>52:28</itunes:duration>
+      <itunes:episode>54</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 53: Two Boys in Toronto</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/53.Two.Boys.in.Toronto.mp3" length="28871730" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/53.Two.Boys.in.Toronto.mp3</guid>
+      <pubDate>Sat, 25 Nov 2017 12:00:00 +0000</pubDate>
+      <itunes:duration>01:00:08</itunes:duration>
+      <itunes:episode>53</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 52: Grandma Lap Dance</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/52.Grandma.Lap.Dance.mp3" length="24482532" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/52.Grandma.Lap.Dance.mp3</guid>
+      <pubDate>Sat, 07 Oct 2017 12:00:00 +0000</pubDate>
+      <itunes:duration>51:00</itunes:duration>
+      <itunes:episode>52</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 51: New-Age Dirty Fun</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/51.New-Age.Dirty.Fun.mp3" length="25478737" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/51.New-Age.Dirty.Fun.mp3</guid>
+      <pubDate>Sun, 20 Aug 2017 12:00:00 +0000</pubDate>
+      <itunes:duration>53:04</itunes:duration>
+      <itunes:episode>51</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Special Presentation: The Natey Broseph Podcast Spectacular</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/SP.Special.Presentation-.The.Natey.Broseph.Podcast.Spectacular.mp3" length="26854635" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/SP.Special.Presentation-.The.Natey.Broseph.Podcast.Spectacular.mp3</guid>
+      <pubDate>Sun, 02 Jul 2017 12:00:00 +0000</pubDate>
+      <itunes:duration>55:56</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Special Presentation: The Lady Broseph Podcast Spectacular</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/SP.Special.Presentation-.The.Lady.Broseph.Podcast.Spectacular.mp3" length="19840298" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/SP.Special.Presentation-.The.Lady.Broseph.Podcast.Spectacular.mp3</guid>
+      <pubDate>Sun, 14 May 2017 12:00:00 +0000</pubDate>
+      <itunes:duration>41:19</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 50: Do Drugs and Get an Unsafe Boat</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/50.Do.Drugs.and.Get.an.Unsafe.Boat.mp3" length="37994107" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/50.Do.Drugs.and.Get.an.Unsafe.Boat.mp3</guid>
+      <pubDate>Mon, 27 Mar 2017 12:00:00 +0000</pubDate>
+      <itunes:duration>01:19:09</itunes:duration>
+      <itunes:episode>50</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 49: Everyone Called Everyone Sluts</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/49.Everyone.Called.Everyone.Sluts.mp3" length="32404338" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/49.Everyone.Called.Everyone.Sluts.mp3</guid>
+      <pubDate>Mon, 06 Feb 2017 12:00:00 +0000</pubDate>
+      <itunes:duration>01:07:30</itunes:duration>
+      <itunes:episode>49</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 48: All Year Long</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/48.All.Year.Long.mp3" length="29035994" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/48.All.Year.Long.mp3</guid>
+      <pubDate>Mon, 19 Dec 2016 12:00:00 +0000</pubDate>
+      <itunes:duration>01:00:29</itunes:duration>
+      <itunes:episode>48</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 47: I Sweated My Moustache Off</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/47.I.Sweated.My.Moustache.Off.mp3" length="29680280" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/47.I.Sweated.My.Moustache.Off.mp3</guid>
+      <pubDate>Tue, 01 Nov 2016 12:00:00 +0000</pubDate>
+      <itunes:duration>01:01:49</itunes:duration>
+      <itunes:episode>47</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 46: Sharklluminati</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/46.Sharklluminati.mp3" length="29714551" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/46.Sharklluminati.mp3</guid>
+      <pubDate>Tue, 13 Sep 2016 12:00:00 +0000</pubDate>
+      <itunes:duration>01:01:54</itunes:duration>
+      <itunes:episode>46</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 45: Sorry, Latina</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/45.Sorry.Latina.mp3" length="31768402" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/45.Sorry.Latina.mp3</guid>
+      <pubDate>Tue, 26 Jul 2016 12:00:00 +0000</pubDate>
+      <itunes:duration>01:06:10</itunes:duration>
+      <itunes:episode>45</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 44: Brown Smoke</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/44.Brown.Smoke.mp3" length="28189627" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/44.Brown.Smoke.mp3</guid>
+      <pubDate>Wed, 08 Jun 2016 12:00:00 +0000</pubDate>
+      <itunes:duration>58:43</itunes:duration>
+      <itunes:episode>44</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 43: Makin' Our Own Rom-Com</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/43.Makin.Our.Own.Rom-Com.mp3" length="30821723" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/43.Makin.Our.Own.Rom-Com.mp3</guid>
+      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      <itunes:duration>01:04:12</itunes:duration>
+      <itunes:episode>43</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 42: Smeagol</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/42.Smeagol.mp3" length="27187560" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/42.Smeagol.mp3</guid>
+      <pubDate>Thu, 03 Mar 2016 12:00:00 +0000</pubDate>
+      <itunes:duration>56:38</itunes:duration>
+      <itunes:episode>42</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 41: The Penguinologist</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/41.The.penguinologist.mp3" length="30194366" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/41.The.penguinologist.mp3</guid>
+      <pubDate>Thu, 14 Jan 2016 12:00:00 +0000</pubDate>
+      <itunes:duration>01:02:54</itunes:duration>
+      <itunes:episode>41</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 40: Zombie Handjobs</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/40.Zombie.Handjobs.mp3" length="25264739" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/40.Zombie.Handjobs.mp3</guid>
+      <pubDate>Thu, 26 Nov 2015 12:00:00 +0000</pubDate>
+      <itunes:duration>52:37</itunes:duration>
+      <itunes:episode>40</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 39: Spooky Halloween Spooktacular</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/39.Spooky.Halloween.Spooktacular.mp3" length="30138348" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/39.Spooky.Halloween.Spooktacular.mp3</guid>
+      <pubDate>Fri, 09 Oct 2015 12:00:00 +0000</pubDate>
+      <itunes:duration>01:02:47</itunes:duration>
+      <itunes:episode>39</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 38: Harry Potter Was A Nerd</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/38.Harry.Potter.Was.A.Nerd.mp3" length="23502415" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/38.Harry.Potter.Was.A.Nerd.mp3</guid>
+      <pubDate>Fri, 21 Aug 2015 12:00:00 +0000</pubDate>
+      <itunes:duration>48:57</itunes:duration>
+      <itunes:episode>38</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 37: Papa Gino</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/37.Papa.Gino.mp3" length="36369494" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/37.Papa.Gino.mp3</guid>
+      <pubDate>Fri, 03 Jul 2015 12:00:00 +0000</pubDate>
+      <itunes:duration>01:15:46</itunes:duration>
+      <itunes:episode>37</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 36: Vaginal Hubris</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/36.Vaginal.Hubris.mp3" length="32132050" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/36.Vaginal.Hubris.mp3</guid>
+      <pubDate>Sat, 16 May 2015 12:00:00 +0000</pubDate>
+      <itunes:duration>01:06:56</itunes:duration>
+      <itunes:episode>36</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 35: Dick Cavette</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/35.Dick.Cavette.mp3" length="19744282" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/35.Dick.Cavette.mp3</guid>
+      <pubDate>Sat, 28 Mar 2015 12:00:00 +0000</pubDate>
+      <itunes:duration>41:07</itunes:duration>
+      <itunes:episode>35</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 34: The Puppet Master</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/34.The.Puppet.Master.mp3" length="24319923" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/34.The.Puppet.Master.mp3</guid>
+      <pubDate>Sun, 08 Feb 2015 12:00:00 +0000</pubDate>
+      <itunes:duration>50:39</itunes:duration>
+      <itunes:episode>34</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 33: Slutty Darth Vader</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/33.Slutty.Darth.Vader.mp3" length="21532134" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/33.Slutty.Darth.Vader.mp3</guid>
+      <pubDate>Sun, 21 Dec 2014 12:00:00 +0000</pubDate>
+      <itunes:duration>44:51</itunes:duration>
+      <itunes:episode>33</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 32: Murder Ballads</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/32.Murder.Ballads.mp3" length="26050693" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/32.Murder.Ballads.mp3</guid>
+      <pubDate>Sun, 02 Nov 2014 12:00:00 +0000</pubDate>
+      <itunes:duration>54:16</itunes:duration>
+      <itunes:episode>32</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 31: Utah Fried Chicken</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/31.Utah.Fried.Chicken.mp3" length="22236363" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/31.Utah.Fried.Chicken.mp3</guid>
+      <pubDate>Mon, 15 Sep 2014 12:00:00 +0000</pubDate>
+      <itunes:duration>46:19</itunes:duration>
+      <itunes:episode>31</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 30: Mr Penis</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/30.Mr.Penis.mp3" length="19834352" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/30.Mr.Penis.mp3</guid>
+      <pubDate>Mon, 28 Jul 2014 12:00:00 +0000</pubDate>
+      <itunes:duration>41:19</itunes:duration>
+      <itunes:episode>30</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 29: Space Cakes</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/29.Space.Cakes.mp3" length="24914019" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/29.Space.Cakes.mp3</guid>
+      <pubDate>Mon, 09 Jun 2014 12:00:00 +0000</pubDate>
+      <itunes:duration>51:54</itunes:duration>
+      <itunes:episode>29</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 26: Caterpillar</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/26.Caterpillar.mp3" length="17665587" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/26.Caterpillar.mp3</guid>
+      <pubDate>Tue, 22 Apr 2014 12:00:00 +0000</pubDate>
+      <itunes:duration>36:48</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 25: Chicken Aids</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/25.Chicken.Aids.mp3" length="28649137" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/25.Chicken.Aids.mp3</guid>
+      <pubDate>Tue, 04 Mar 2014 12:00:00 +0000</pubDate>
+      <itunes:duration>59:41</itunes:duration>
+      <itunes:episode>25</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 24: Harem of Highlanders</title>
+      <enclosure url="https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/24.Harem.of.Highlanders.mp3" length="35886729" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://github.com/ppeirce/dotnet/releases/download/podcast-episodes/24.Harem.of.Highlanders.mp3</guid>
+      <pubDate>Wed, 15 Jan 2014 12:00:00 +0000</pubDate>
+      <itunes:duration>01:14:45</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+  </channel>
+</rss>
